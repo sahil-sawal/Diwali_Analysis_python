@@ -73,7 +73,7 @@ The dataset contains transaction details from Diwali festival sales.
 
 A visualization of orders by state:
 
-![Orders by State]([assets/orders_by_state.png](https://github.com/sahil-sawal/Diwali_Analysis_python/blob/main/Order_by_States.png))
+![Orders by State](https://github.com/sahil-sawal/Diwali_Analysis_python/blob/main/Order_by_States.png)
 
 ---
 
